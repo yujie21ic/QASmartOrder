@@ -1,2 +1,2 @@
 # QASmartOrder
-Snart order by QUANTAXIS REALTIME
+Smart order by QUANTAXIS REALTIME
